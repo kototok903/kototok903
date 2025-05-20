@@ -1,7 +1,7 @@
-## Hey, I'm Stas.
+## Hey, I'm Stas
 
 and I...
-- am a Iowa State University student, class of 2028, major in Computer Science;
+- am an Iowa State University student, class of 2028, major in Computer Science;
 - study CS for about 5 years;
 - enjoy competitive programming and logic-heavy tasks;
 - love turning ideas into reality through programming!
